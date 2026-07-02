@@ -1,4 +1,4 @@
-# I-love-tool-3
+# ilovetool3-tools
 # Free SEO Tools
 
 This repository contains information about free SEO tools.
